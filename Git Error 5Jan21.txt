@@ -1,0 +1,36 @@
+Microsoft Windows [Version 10.0.19041.685]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\Leo>cd C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git init
+Initialized empty Git repository in C:/Users/Leo/Desktop/Back End Coding Bootcamp/MySQL/Week 4/.git/
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git add .
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git commit -m "First commit"
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git branch -m main
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+
+C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git branch -m main
