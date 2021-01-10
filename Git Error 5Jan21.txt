@@ -34,3 +34,5 @@ error: refname refs/heads/master not found
 fatal: Branch rename failed
 
 C:\Users\Leo\Desktop\Back End Coding Bootcamp\MySQL\Week 4>git branch -m main
+
+LOG: DELETED REPO AND RETRIED, NOW WORKING
